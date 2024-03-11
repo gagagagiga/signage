@@ -1,0 +1,1 @@
+ E:\\tmp\\signage\\.dart_tool\\flutter_build\\fabc3b85c1a9f166ddf0d2a746fca9d3\\native_assets.yaml: 
